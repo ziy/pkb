@@ -25,7 +25,7 @@
 ## Prerequisite
 1. Clone the repository
 1. Download AOL query log (i.e. user-ct-test-collection.txt.gz)
-1. Download wikihow dump (i.e. wikihowcom-XXXXXXXX-current.xml)
+1. Download wikihow dump (i.e. wikihowcom-XXXXXXXX-current.xml): https://archive.org/details/wikihowcom
 1. Uncompress all the .tar.gz files (intermediate auxiliary files)
 
 ### Steps
